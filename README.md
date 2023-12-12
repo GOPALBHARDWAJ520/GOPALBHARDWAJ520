@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm gopal bhardwaj</h1>
-<h3 align="center">A passionate in cyber security from India</h3>
+<h3 align="center">Looking for an entry-level position in Data analytics, where I can utilize my extensive knowledge about the area gained during my BCA degree.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalbhardwaj520&label=Profile%20views&color=0e75b6&style=flat" alt="gopalbhardwaj520" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalbhardwaj520" alt="gopalbhardwaj520" /></a> </p>
 
 - 🔭 I’m currently working on **portfolio website**
 
