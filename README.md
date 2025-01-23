@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalbhardwaj520" alt="gopalbhardwaj520" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio website**
+- 🔭 I’m currently working on **YOUTUBE CLONE PROJECT**
 
 - 👯 I’m looking to collaborate on **full stack development**
 
