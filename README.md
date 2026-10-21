@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/GOPALBHARDWAJ520">
-    <img src="https://github.com/user-attachments/assets/c910cd6b-b0b4-4cc1-9ce1-f275fb2962ee" alt="Profile Views">
+    <img src="" alt="Profile Views">
   </a>
 </p>
 
